@@ -1,4 +1,4 @@
-# HousePricingKaggle (EN)
+# House Pricing Kaggle (EN)
 
 Project where I used the Kaggle competition "House Prices - Advanced Regression Techniques" to study some machine learning methods.
 
@@ -27,7 +27,7 @@ Project where I used the Kaggle competition "House Prices - Advanced Regression 
 ---
 
 
-# HousePricingKaggle (PT)
+# House Pricing Kaggle (PT)
 
 Projeto onde utilizei da competição do Kaggle "House Prices - Advanced Regression Techniques" para o estudo de alguns métodos de machine learning.
 
